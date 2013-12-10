@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoToDo</string>    
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Buscar</string>    
+    <string name="drawer_open">Menu abierto</string>   
+    <string name="drawer_close">Menu Cerrado</string>   
+    
+	<string name="NEXT_ACTION">Proxima Acción</string>  
+    <string name="DOIT">Hecho</string>  
+    <string name="DELEGATE">Delegado</string>  
+    <string name="TRASH">Basura</string>  
+    <string name="SOMEDAY">Algún Día</string>  
+    <string name="REFERENCE">Archivado</string> 
+    
+    <string-array name="EstadosGTD">
+        <item name="NEXT_ACTION">Proxima Acción</item>
+        <item name="DOIT">Hecho</item>
+        <item name="DELEGATE">Delegado</item>
+        <item name="TRASH">Basura</item>
+        <item name="SOMEDAY">Algún Día</item>
+		<item name="REFERENCE">Archivado</item>
+  	</string-array>
+
+	<string-array name="opcionesMenu">
+        <item name="menu_item_crear_nota">Crear Nota</item>
+        <item name="menu_item_proximas_acciones">Proximas Acciones</item>
+        <item name="menu_item_bandeja_entrada">Bandeja de Entrada</item>
+        <item name="menu_item_calendario">Calendario</item>
+        <item name="menu_item_proyectos">Proyectos</item>
+        <item name="menu_item_configuracion">Configuración</item>
+	</string-array>
+  
+   
+        <string name="titulo">Titulo</string>
+        <string name="prioridad">Prioridad</string>
+        <string name="fecha">Fecha</string>
+        <string name="proyecto">Proyecto</string>
+        <string name="proyectos">Proyectos</string>
+        <string name="a_adir_documentos_">Añadir Documentos:</string>
+        <string name="foto">Foto</string>
+        <string name="archivo">Archivo</string>
+        <string name="guardar">Guardar</string>
+        <string name="url">URL</string>
+        <string name="etiquetas">Etiquetas</string>
+        <string name="gtd">GTD</string>
+        <string name="texto">Texto</string>
+        <string name="error_prioridad">La Prioridad debe ser de 0 a 3</string>
+		<string name="error_titulo">El Título no puede estar vacio</string>      
+		<string name="nota_grabada">Nota guardada</string>
+		<string name="no_hay_datos">No hay datos</string>		
+        <string name="nuevo">Nuevo</string>
+        <string name="editar">Editar</string>
+        <string name="borrar">Borrar</string>
+        <string name="crear">Crear</string>
+        <string name="crearProyecto">Crear Proyecto</string>
+        <string name="cancelar">Cancelar</string>
+        <string name="nombre">Nombre</string>
+        <string name="Eliminar_item">Eliminar Nota</string>
+        <string name="confirmar_mensaje">¿Esta seguro?</string>
+        <string name="Proyecto_mismo_nombre">Error, ya existe un Proyecto con el mismo Nombre</string>
+        <string name="Proyecto_error">La Prioridad se ha estabelcido en 0, se requiere un Nombre</string>
+		<string name="Proyecto_creado">Proyecto creado</string>
+		<string name="editarProyecto">Editar Proyecto</string>
+		<string name="proyecto_editado">Proyecto Editado</string>
+		<string name="proyecto_sinProyectos">Error, no hay Proyectos</string>
+		<string name="borrarProyecto">Eliminar Proyecto</string>
+		<string name="proyecto_errorborrar">Error al borrar Proyecto</string>
+		<string name="proyecto_borrado">Proyecto Borrado</string>
+		<string name="borrarNotasAlBorrarProyecto">Borrar Notas incluidas en el Proyecto al eliminar un Proyecto</string>
+		<string name="editarEtiqueta">Editar Etiqueta</string>
+		<string name="borrarEtiqueta">Borrar Etiqueta</string>
+		<string name="error">Error</string>   
+		<string name="etiqueta_mismo_nombre">Ya existe esta Etiqueta</string>      
+		<string name="etiqueta_creada">Etiqueta creada</string>
+		<string name="crearEtiqueta">Crear Etiqueta</string>
+		<string name="borrarEtiqueta">Borrar Etiqueta</string>
+		<string name="sinEtiquetas">No hay Etiquetas</string>
+		<string name="etiqueta_borrada">Etiqueta Eliminada</string>
+		<string name="etiqueta_errorborrar">Error Eliminando Etiqueta</string>
+		<string name="evento">Evento:</string>
+		<string name="sonido">Audio</string>
+		<string name="sonidoGrabado">Sonido Grabado</string>
+		<string name="fotoGrabada">Imagen Grabada</string>
+		
+
+</resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoToDo</string>    
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Find</string>    
+    <string name="drawer_open">Open Menu</string>   
+    <string name="drawer_close">Close Menu</string>   
+    
+	<string name="NEXT_ACTION">Next Actions</string>  
+    <string name="DOIT">Done</string>  
+    <string name="DELEGATE">Delegate</string>  
+    <string name="TRASH">Trash</string>  
+    <string name="SOMEDAY">SomeDay</string>  
+    <string name="REFERENCE">Reference</string> 
+    
+    <string-array name="EstadosGTD">
+        <item name="NEXT_ACTION">Next Actions</item>
+        <item name="DOIT">Done</item>
+        <item name="DELEGATE">Delegate</item>
+        <item name="TRASH">Trash</item>
+        <item name="SOMEDAY">SomeDay</item>
+		<item name="REFERENCE">Reference</item>
+  	</string-array>
+
+	<string-array name="opcionesMenu">
+        <item name="menu_item_crear_nota">New Note</item>
+        <item name="menu_item_proximas_acciones">Next Actions</item>
+        <item name="menu_item_bandeja_entrada">InBox</item>
+        <item name="menu_item_calendario">Calendar</item>
+        <item name="menu_item_proyectos">Projects</item>
+        <item name="menu_item_configuracion">Settings</item>
+	</string-array>
+  
+   
+        <string name="titulo">Tittle</string>
+        <string name="prioridad">Priority</string>
+        <string name="fecha">Date</string>
+        <string name="proyecto">Project</string>
+        <string name="proyectos">Projetcs</string>
+        <string name="a_adir_documentos_">Add Docs:</string>
+        <string name="foto">Photo</string>
+        <string name="archivo">File</string>
+        <string name="guardar">Save</string>
+        <string name="url">URL</string>
+        <string name="etiquetas">Labels</string>
+        <string name="gtd">GTD</string>
+        <string name="texto">Text</string>
+        <string name="error_prioridad">Priority must be 0 to 3</string>
+		<string name="error_titulo">Tittle required</string>      
+		<string name="nota_grabada">Saved Note</string>
+		<string name="no_hay_datos">No Data</string>		
+        <string name="nuevo">New</string>
+        <string name="editar">Edit</string>
+        <string name="borrar">Delete</string>
+        <string name="crear">New</string>
+        <string name="crearProyecto">New Project</string>
+        <string name="cancelar">Cancel</string>
+        <string name="nombre">Name</string>
+        <string name="Eliminar_item">Delete Note</string>
+        <string name="confirmar_mensaje">¿Are you sure?</string>
+        <string name="Proyecto_mismo_nombre">Error, Project with same name</string>
+        <string name="Proyecto_error">Priority set to 0, Name is required</string>
+		<string name="Proyecto_creado">Project saved</string>
+		<string name="editarProyecto">Edit Project</string>
+		<string name="proyecto_editado">Project Edited</string>
+		<string name="proyecto_sinProyectos">Error, no Projects</string>
+		<string name="borrarProyecto">Delete Project</string>
+		<string name="proyecto_errorborrar">Error deleting Project</string>
+		<string name="proyecto_borrado">Project Deleted</string>
+		<string name="borrarNotasAlBorrarProyecto">Delete all Notes from the Project</string>
+		<string name="editarEtiqueta">Edit Label</string>
+		<string name="borrarEtiqueta">Delete Label</string>
+		<string name="error">Error</string>   
+		<string name="etiqueta_mismo_nombre">Error, Label with same name</string>      
+		<string name="etiqueta_creada">Label saved</string>
+		<string name="crearEtiqueta">New Label</string>
+		<string name="borrarEtiqueta">Delete Label</string>
+		<string name="sinEtiquetas">No Labels</string>
+		<string name="etiqueta_borrada">Label Deleted</string>
+		<string name="etiqueta_errorborrar">Error Deleting Label</string>
+		<string name="evento">Event:</string>
+		<string name="sonido">Audio</string>
+		<string name="sonidoGrabado">Sound Saved</string>
+		<string name="fotoGrabada">Image Saved</string>
+		
+
+</resources>
